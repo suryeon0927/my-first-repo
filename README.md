@@ -1,2 +1,16 @@
-# my-first-repo
-My first repository
+# \# my-first-repo
+
+# 
+
+# 안녕하세요! 제 첫 번째 GitHub 저장소예요.
+
+# 
+
+# \## 소개
+
+# 이 저장소는 GitHub 사용법을 배우기 위해 만들었습니다.
+
+
+
+이 프로젝트는 계속 업데이트될 예정입니다.
+
